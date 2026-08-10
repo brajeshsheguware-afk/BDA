@@ -27,7 +27,7 @@ The dataset contains sales records of a retail superstore, including:
 * Order ID
 * Order Date
 * Ship Date
-* Customer Details
+* Customer Details 
 * Segment
 * Category
 * Sub-Category
