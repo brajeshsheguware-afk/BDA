@@ -442,45 +442,6 @@ The following visualizations were created during the analysis:
 
 ---
 
-# 📁 Project Structure
-
-```text
-Superstore-Sales-Analysis/
-│
-├── samplesuperstore.csv
-├── Superstore_Sales_Analysis.ipynb
-├── README.md
-│
-└── visualizations/
-    ├── sales_by_category.png
-    ├── sales_distribution.png
-    ├── profit_by_category.png
-    ├── profit_distribution.png
-    ├── profit_variation.png
-    ├── discount_vs_profit.png
-    └── correlation_heatmap.png
-```
-
----
-
-# 🚀 Future Scope
-
-The project can be extended with:
-
-* Monthly Sales Analysis
-* Yearly Sales Analysis
-* Regional Sales Analysis
-* Sub-Category Analysis
-* Customer Segment Analysis
-* Top 10 Products
-* Top Customers
-* Sales Forecasting
-* Profit Prediction
-* Customer Analysis
-* Interactive Dashboard
-
----
-
 # 🎯 Conclusion
 
 The Superstore Sales dataset was successfully understood, preprocessed, and analyzed using Python.
@@ -497,8 +458,4 @@ The analysis provides useful insights into category performance, profitability, 
 
 **K. Brajesh Sheguware**
 
-BCA Student | Aspiring Software Developer
 
-### Skills Used
-
-Python | Pandas | NumPy | Matplotlib | Seaborn | Data Analysis
